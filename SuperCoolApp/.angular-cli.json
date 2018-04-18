@@ -1,12 +1,12 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "my-app"
+    "name": "super-cool-app"
   },
   "apps": [
     {
       "root": "src",
-      "outDir": "dist",
+      "outDir": "wwwroot",
       "assets": [
         "assets",
         "favicon.ico"
